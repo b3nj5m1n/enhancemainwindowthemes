@@ -1,0 +1,44 @@
+{
+"fire": {
+    "color_extra_0": "#FED976",
+    "color_1": "#FEB24C",
+    "color_2": "#FD8D3C",
+    "color_3": "#FC6D33",
+    "color_4": "#FC4E2A",
+    "color_5": "#E31A1C",
+    "color_6": "#D00D21",
+    "color_extra_5": "#BD0026",
+    "color_extra_6": "#800026"
+},
+
+"lime": {
+    "color_1": "#BDDB7A",
+    "color_2": "#A4D06F",
+    "color_extra_2.5": "#74BA58",
+    "color_3": "#44A340",
+    "color_4": "#5CAE4C",
+    "color_5": "#378F36",
+    "color_6": "#1E6823"
+},
+
+"frozen": {
+    "color_extra_0": "#95C8F3",
+    "color_1": "#82BBF0",
+    "color_2": "#70AFEE",
+    "color_3": "#5DA2EB",
+    "color_4": "#3889E6",
+    "color_5": "#257CE3",
+    "color_6": "#0063DE"
+},
+
+"magenta": {
+    "color_extra_0": "#FCC5C0",
+    "color_1": "#FA9FB5",
+    "color_2": "#F768A1",
+    "color_3": "#EA4E9C",
+    "color_4": "#DD3497",
+    "color_5": "#AE017E",
+    "color_6": "#7A0177",
+    "color_extra_7": "#49006A"
+}
+}
