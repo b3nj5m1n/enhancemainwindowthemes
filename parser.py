@@ -1,6 +1,6 @@
 import json
 
-scheme = "frozen"
+scheme = "pinky"
 schemes = ""
 with open("colorschemes.json", "r", encoding="utf-8") as file:
     schemes = json.loads(file.read())

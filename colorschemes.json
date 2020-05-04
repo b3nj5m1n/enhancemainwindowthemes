@@ -40,5 +40,16 @@
     "color_5": "#AE017E",
     "color_6": "#7A0177",
     "color_extra_7": "#49006A"
+},
+
+"pinky": {
+    "color_extra_0": "#ff9dc4",
+    "color_1": "#ff3e95",
+    "color_2": "#ff3b89",
+    "color_3": "#ff1472",
+    "color_4": "#ff0066",
+    "color_5": "#d80056",
+    "color_6": "#9d003f",
+    "color_extra_7": "#3b0018"
 }
 }
