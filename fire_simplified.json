@@ -3,7 +3,7 @@
     "cap value": null,
     "color empty": "#D00D21",
     "color empty descendant": "#E31A1C",
-    "color zero": "#2F2F31",
+    "color zero": false,
     "columns": [
         {
             "absolute": true,

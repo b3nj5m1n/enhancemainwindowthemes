@@ -1,6 +1,6 @@
 import json
 
-scheme = "pinky"
+scheme = "magenta"
 schemes = ""
 with open("colorschemes.json", "r", encoding="utf-8") as file:
     schemes = json.loads(file.read())
@@ -19,7 +19,8 @@ for c in template_extended["columns"]:
             c["color"] = schemes[scheme][c["color"]]
     if "header" in c:
         if not c["header"] == None:
-            c["header"] = c["header"].replace("color_6", schemes[scheme]["color_6"])
+            c["header"] = c["header"].replace(
+                "color_6", schemes[scheme]["color_6"])
 for k in template_extended:
     if "color" in str(template_extended[k]):
         if "color_" in str(template_extended[k]):
@@ -31,7 +32,8 @@ for c in template_simplified["columns"]:
             c["color"] = schemes[scheme][c["color"]]
     if "header" in c:
         if not c["header"] == None:
-            c["header"] = c["header"].replace("color_6", schemes[scheme]["color_6"])
+            c["header"] = c["header"].replace(
+                "color_6", schemes[scheme]["color_6"])
 for k in template_simplified:
     if "color" in str(template_simplified[k]):
         if "color_" in str(template_simplified[k]):
