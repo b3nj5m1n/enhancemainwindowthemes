@@ -3,7 +3,7 @@
     "cap value": null,
     "color empty": "color_6",
     "color empty descendant": "color_5",
-    "color zero": false,
+    "color zero": true,
     "columns": [
         {
             "absolute": true,
@@ -388,12 +388,12 @@
             "subdeck": true
         }
     ],
-    "default column color": "red",
+    "default column color": "color_6",
     "do color empty": true,
     "do color marked": true,
     "dot in numbers": true,
     "end symbol": ";",
-    "ended marked background color": "red",
+    "ended marked background color": "color_6",
     "given up symbol": "/",
     "hide values of parent decks when subdecks are shown": false,
     "marked background color": "null",
