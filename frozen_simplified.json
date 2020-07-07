@@ -388,12 +388,12 @@
             "subdeck": true
         }
     ],
-    "default column color": "red",
+    "default column color": "#0063DE",
     "do color empty": true,
     "do color marked": true,
     "dot in numbers": true,
     "end symbol": ";",
-    "ended marked background color": "red",
+    "ended marked background color": "#0063DE",
     "given up symbol": "/",
     "hide values of parent decks when subdecks are shown": false,
     "marked background color": "null",

@@ -1,6 +1,7 @@
 import json
+import sys
 
-scheme = "magenta"
+scheme = sys.argv[1]
 schemes = ""
 with open("colorschemes.json", "r", encoding="utf-8") as file:
     schemes = json.loads(file.read())
